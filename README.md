@@ -12,7 +12,7 @@
 Input: `[1, 5, 2, 1, 4, 0]`
 
 ```sh
-$ make
+$ make --quiet
 ```
 
 Excepted result: `11`
